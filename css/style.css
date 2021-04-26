@@ -1,0 +1,218 @@
+.header{
+	background-color: #F1F2F4;
+}
+.headicon{
+	display: inline-block; 
+	padding-top: 10px;
+	padding-right: 20px;
+}
+.hicon i{
+	margin-right: 10px;
+}
+.navtext{
+  color: #454545;
+  font-weight: bold;
+}
+.redbtn{
+     background-color: #DE2B24;
+     color: white;
+     padding-left: 20px;
+     padding-right: 20px;
+     margin-left: 20px;
+}
+.banner{
+	background:url("../images/slider.jpg");
+	background-size: cover;
+	min-height: 550px;
+	background-repeat: no-repeat;
+}
+
+.headtext{
+	color: white;
+	padding-top: 150px;
+}
+.headtext h1{
+	font-size: 50px;
+}
+.headtext h5{
+	font-size: 30px;
+}
+.ybtn{
+	background-color: #F7CD54;
+	color: white;
+	font-size: 25px;
+	padding: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	margin-top: 30px;
+	font-weight: bold;
+
+}
+.line{
+	width: 50px;
+	margin-bottom: 50px;
+	background-color: black;
+	height: 4px;
+
+}
+.line2{
+	width: 50px;
+	margin-bottom: 50px;
+	background-color: white;
+	height: 4px;
+
+}
+.about{
+	padding-top: 80px;
+	margin-bottom: 80px;
+}
+.approach{
+	background-color: #F1F2F4;
+	padding-bottom: 50px; 
+}
+.apptext{
+	padding-top:50px;
+}
+.margin-bottom{
+	margin-bottom: 30px;
+}
+.step{
+	position: absolute;
+	background:url("../images/red.png");
+	min-height: 100px;
+	width: 100px;
+	background-size: cover;
+	left: 410px;
+	margin-top: 75px;
+	color: white;
+}
+.step2{
+	position: absolute;
+	background:url("../images/red.png");
+	min-height: 100px;
+	width: 100px;
+	background-size: cover;
+	left: 830px;
+	margin-top: 75px;
+	color: white;
+}
+
+.sectext{
+	padding: 50px;
+	height: 230px;
+}
+.sectext2{
+	padding: 50px;
+	height: 230px;
+	text-align: right;
+}
+.appcontainer1{
+	background-color: white;
+}
+.work{
+	background-color: #DE2B24;
+	padding-bottom: 80px;
+}
+.worktext{
+padding-top: 50px;
+color: white;
+}
+.wbox{
+	background-color: #F35E58;
+	color: white;
+}
+.padding-0{
+    padding-left: 0;
+    padding-right: 0;
+
+}
+.plane{
+	padding-top: 20px;
+	padding-bottom: 10px;
+
+}
+.cont{
+	padding-top: 50px;
+}
+
+.facebook{
+	background-color: #1286BF;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	height: 750px;
+}
+.facetext{
+	color: white;
+}
+.touch{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #2A2A2A;
+}
+.touchtext{
+	color:white;
+}
+.socials{
+	margin-top: 20px;
+   border: 1px solid grey;
+   border-radius: 3px;
+   padding: 10px;
+   width: 45px;
+   height: 45px;
+   padding-top: 12px;
+   margin-right: 20px;
+   margin-bottom: 20px;
+}
+.socials:hover{
+	border: 1px solid red;
+	cursor: pointer; 
+}
+.btn-sub{
+	margin-top: 30px;
+	background-color: #2A2A2A;
+	border: 1px solid grey;
+	color: white;
+	padding-right:30px;
+	padding-left: 30px; 
+	font-size: 20px;
+	border-radius: 2px;
+    }
+
+.footer{
+    	background-color: #515151;
+    	color: #BEBEBE;
+    	height: 60px;
+    	padding-top: 20px;
+    }
+
+.infield{
+        background-color: white;
+        padding: 50px;
+        margin-top: 30px;
+    }
+
+ .btn-red2{
+ 	background-color: #DE2B24;
+ 	color: white;
+ 	font-size: 18px;
+ 	font-weight: bold;
+ 	margin-top: 20px;
+ }   
+
+ .infield p{
+    color:#A9A9A9;
+    padding-bottom: 20px;
+ }
+.control-field{
+	background-color: #515151;
+	border:none;
+	border-radius:0px;
+	height: 50px; 
+}
+.control-field::placeholder{
+	color: #B6B6B6;
+} 
+
+.custom-filed{
+   height: 50px;
+}
